@@ -15,7 +15,7 @@
 - 📱 Enjoy building intuitive, responsive UIs using React.js, Flutter, and modern web tools  
 - 🌱 Continuously exploring new tools and improving my software development skills  
 - 🤝 Open to internships, collaborations, and real-world projects in web/mobile development  
-- 📫 How to reach me: [your-email@example.com] | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me:vineka2004@gmail.com | [LinkedIn](https://www.linkedin.com/in/vineka-s-218009324/)
 
 ---
 
