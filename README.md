@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently pursuing M.Sc. in Computer Science  
+- 🎓 Currently pursuing M.Sc. in Computer Science(Integrated) at CEG, Anna University
 - 💻 Passionate about **frontend development**, **Flutter mobile apps**, and **building practical web applications**  
 - 📱 Enjoy building intuitive, responsive UIs using React.js, Flutter, and modern web tools  
 - 🌱 Continuously exploring new tools and improving my software development skills  
