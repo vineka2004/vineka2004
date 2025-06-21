@@ -35,22 +35,22 @@
 
 ### 🌟 Notable Projects
 
-- **💎 Jewelry Store Web App**  
+- ** Jewelry Store Web App**  
   Web app for managing vendors, products, sales & purchase orders with role-based access using PHP & MySQL.
 
-- **📚 Student & Staff Management System**  
+- ** Student & Staff Management System**  
   Java + MySQL project to manage student records, attendance, and marks securely.
 
-- **🏥 Hospital Management Data Cleaning**  
+- ** Hospital Management Data Cleaning**  
   Cleaned and preprocessed health records using Python and SQL for improved analysis.
 
-- **💰 Financial Management System**  
+- ** Financial Management System**  
   Web-based system for managing customer transactions, loans, and deposits.
 
-- **📱 Campus Polling App (Flutter)**  
+- ** Campus Polling App (Flutter)**  
   Real-time polling app with Firebase backend, secure role-based login, and domain-based polls.
 
-- **🧪 Mini Compiler (Academic)**  
+- ** Mini Compiler (Academic)**  
   Built as part of coursework; simulated C-like `if/else` code execution. *(Note: Not a core focus area.)*
 
 ---
