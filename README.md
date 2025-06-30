@@ -11,8 +11,7 @@
 ### 🧠 About Me
 
 - 🎓 Currently pursuing M.Sc. in Computer Science(Integrated) at CEG, Anna University
-- 💻 Passionate about **frontend development**, **Flutter mobile apps**, and **building practical web applications**  
-- 📱 Enjoy building intuitive, responsive UIs using React.js, Flutter, and modern web tools  
+- 💻 Passionate about **Full stack development**, **Flutter mobile apps**, and **building practical web applications**  
 - 🌱 Continuously exploring new tools and improving my software development skills  
 - 🤝 Open to internships, collaborations, and real-world projects in web/mobile development  
 - 📫 How to reach me:vineka2004@gmail.com | [LinkedIn](https://www.linkedin.com/in/vineka-s-218009324/)
@@ -22,9 +21,9 @@
 ### 🛠️ Technical Skills
 
 - **Languages:** Python, Java, C++, C  
-- **Frontend & Web Development:** HTML, CSS, JavaScript, React.js  
+- **Web Development:** HTML, CSS, JavaScript, React.js,Node.js,Express.js  
 - **Mobile Development:** Flutter, Dart, Java (Android Studio), Firebase (Auth, Firestore)  
-- **Backend & DB:** MySQL  
+- **Backend & DB:** MySQL,MongoDB  
 - **Data Cleaning (Basic):** Using Pandas, Excel, SQL  
 - **Libraries & Tools:** Pandas, NumPy, scikit-learn, Eclipse, VS Code  
 - **Version Control:** Git & GitHub  
