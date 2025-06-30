@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineka</h1>
-<h3 align="center">Web & Mobile App Developer | Frontend Developer | Full Stack Developer | Flutter Developer | M.Sc. Computer Science Student</h3>
+<h3 align="center">Web & Mobile App Developer | Frontend Developer | Full Stack Developer | Flutter Developer | Computer Science Student</h3>
 
 
 ---
