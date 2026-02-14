@@ -46,11 +46,10 @@
 - ** Financial Management System**  
   Web-based system for managing customer transactions, loans, and deposits.
 
-- ** Campus Polling App (Flutter)**  
+- ** Campus Polling App **  
   Real-time polling app with Firebase backend, secure role-based login, and domain-based polls.
 
-- ** Mini Compiler (Academic)**  
-  Built as part of coursework; simulated C-like `if/else` code execution. *(Note: Not a core focus area.)*
+
 
 ---
 
@@ -59,18 +58,6 @@
 - **React JS Tutorial** – Great Learning  
 - **Introduction to Linear Algebra** – MathWorks  
 - **Fundamentals of AI** – Azure Developers Community  
-
----
-
-### 💬 Soft Skills
-
-- Communication & Teamwork  
-- Problem Solving  
-- Adaptability  
-- Time Management
-
----
-
 
 ---
 
