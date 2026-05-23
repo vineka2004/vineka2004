@@ -10,11 +10,11 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently pursuing M.Sc. in Computer Science(Integrated) at CEG, Anna University
-- 💻 Passionate about **Full stack development**, **Flutter mobile apps**, and **building practical web applications**  
-- 🌱 Continuously exploring new tools and improving my software development skills  
-- 🤝 Open to internships, collaborations, and real-world projects in web/mobile development  
-- 📫 How to reach me:vineka2004@gmail.com | [LinkedIn](https://www.linkedin.com/in/vineka-s-218009324/)
+- Currently pursuing M.Sc. in Computer Science(Integrated) at CEG, Anna University
+- Passionate about **Full stack development**, **Flutter mobile apps**, and **building practical web applications**  
+- Continuously exploring new tools and improving my software development skills  
+- Open to internships, collaborations, and real-world projects in web/mobile development  
+- How to reach me:vineka2004@gmail.com | [LinkedIn](https://www.linkedin.com/in/vineka-s-218009324/)
 
 ---
 
@@ -43,21 +43,8 @@
 - ** Hospital Management Data Cleaning**  
   Cleaned and preprocessed health records using Python and SQL for improved analysis.
 
-- ** Financial Management System**  
-  Web-based system for managing customer transactions, loans, and deposits.
-
 - ** Campus Polling App **  
   Real-time polling app with Firebase backend, secure role-based login, and domain-based polls.
-
-
-
----
-
-### 📜 Certifications
-
-- **React JS Tutorial** – Great Learning  
-- **Introduction to Linear Algebra** – MathWorks  
-- **Fundamentals of AI** – Azure Developers Community  
 
 ---
 
